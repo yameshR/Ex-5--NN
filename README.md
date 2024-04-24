@@ -111,7 +111,11 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 
 
 <H3>OUTPUT:</H3>
-![image](https://github.com/karthika28112004/Ex-5--NN/assets/128035087/ed455a44-c475-412d-b806-e4052b5fe862)
+
+![image](https://github.com/karthika28112004/Ex-5--NN/assets/128035087/cc9a7d52-70d0-4711-8f08-40d8bb6d9a15)
+
+
+
 
 
 
